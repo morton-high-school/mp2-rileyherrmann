@@ -8,6 +8,10 @@ Task 1
 ChatBot.java has an additional method called findKeyword(). Read and understand
 its functionality.
 
+Done
+
 Task 2
 Rewrite the getResponse() method to implement findKeyword(). Have a new
 conversation with the chatbot to ensure it is working correctly.
+
+Done
